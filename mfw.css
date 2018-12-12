@@ -1,5 +1,7 @@
 body {
 	text-align:justify;
 	margin : 0 20% 0 20%;
-	color:#444;
+    color:#444;
+    line-height: 1.6;
+
 }
